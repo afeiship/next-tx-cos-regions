@@ -3,7 +3,7 @@
  * description: Const for tencent cos regions.
  * homepage: https://github.com/afeiship/next-tx-cos-regions
  * version: 1.0.0
- * date: 2020-11-21 10:53:20
+ * date: 2020-11-21 10:54:41
  * license: MIT
  */
 
